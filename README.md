@@ -46,4 +46,5 @@ A scatter plot examines the relationship between discount percentages and quanti
 - Sales Channels: It does not differentiate between online and offline sales channels, which could impact strategy development.
 
 # References
-- Tableau Dashboard : [Link]
+- Tableau Dashboard : [Link](https://github.com/gayatrikuracha/Customer-Sales-Analysis/blob/main/customer%20sales%20tab%20db.twb)
+  
